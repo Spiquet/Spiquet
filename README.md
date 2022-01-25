@@ -1,23 +1,31 @@
 ### Hi, my name is Simon 👋
 
-I am an Application Designer and Developer
+I am an Application Designer and Developer passionate about the world of code.
+
+
+- 🔭 I’m currently working on:
+
+  - [Norberteam/backoffice](https://github.com/Norberteam/backoffice)
+  - [Norberteam/ionic-app](https://github.com/Norberteam/backoffice)
+  - [stripe-project](https://github.com/Spiquet/stripe-project)
+
+- 🌱 I’m currently practicing (and learning):
+  - ``Node.Js``
+  - ``React.Js``
+  - ``TDD``
+  - ``Docker``
+  - ``CI/CD``
+
+- 👯 I’m looking to collaborate on:
+  - Open source projects React and NodeJS
+  - Open source projects with TDD and clean code
+
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/simonpiquet/)
 
 <!--
-**Spiquet/Spiquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-  - Norberteam/backoffice [Lien](https://github.com/Norberteam/backoffice")
-  - 
-- 🌱 I’m currently practicing (and learning):
-  - NodeJs
-  - React
-  - TDD
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
