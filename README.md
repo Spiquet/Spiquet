@@ -10,6 +10,7 @@ I am an Application Designer and Developer passionate about the world of code.
   - [stripe-project](https://github.com/Spiquet/stripe-project)
 
 - 🌱 I’m currently practicing (and learning):
+  - ``Algorithm`` 
   - ``Node.Js``
   - ``React.Js``
   - ``TDD``
