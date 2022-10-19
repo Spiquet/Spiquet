@@ -5,8 +5,7 @@ I am an Application Designer and Developer passionate about the world of code.
 
 - 🔭 I’m currently working on:
 
-  - [Norberteam/backoffice](https://github.com/Norberteam/backoffice)
-  - [Norberteam/ionic-app](https://github.com/Norberteam/backoffice)
+  - [portfolio](https://github.com/Spiquet/portfolio_Simon_Piquet)
   - [stripe-project](https://github.com/Spiquet/stripe-project)
 
 - 🌱 I’m currently practicing (and learning):
